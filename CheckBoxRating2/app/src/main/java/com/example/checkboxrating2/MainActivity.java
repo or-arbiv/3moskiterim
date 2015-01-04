@@ -33,6 +33,7 @@ public class MainActivity extends ActionBarActivity {
         myStarRating1 = new MyStarRating(this, "first question?", parent);
         myStarRating2 = new MyStarRating(this, "second question?", parent);
         myStarRating3 = new MyStarRating(this, "third question?", parent);
+        int idfc = 45;
 
 
         /*
